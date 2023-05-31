@@ -1,0 +1,16 @@
+.fancy {
+    font-style: italic ;
+    color: white;
+}
+
+#head {
+    color:hotpink ;
+}
+
+body {
+    background-color: blueviolet;
+}
+
+#food {
+    font-weight: bold;
+}
