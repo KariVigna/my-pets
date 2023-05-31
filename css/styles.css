@@ -1,10 +1,12 @@
 .fancy {
     font-style: italic ;
     color: white;
+    text-align: center;
 }
 
 #head {
     color:hotpink ;
+    text-align: center;
 }
 
 body {
