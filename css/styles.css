@@ -26,5 +26,12 @@ body {
     border-width 10px;
     margin-top: 10px;
     box-sizing: border-box;
+}
 
+.photos {
+    float: left;
+    width 25%;
+    padding; 10px;
+    border; solid black;
+    border-width; 10px
 }
